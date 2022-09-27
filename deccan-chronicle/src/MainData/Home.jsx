@@ -1,11 +1,13 @@
-
-
-export default function Home(){
-    return(
-        <div style={{textAlign:"center"}}>
-            <h1>
-                HOME
-            </h1>
-        </div>
-    )
+export default function Home() {
+  return (
+    <div style={{ textAlign: "center" }}>
+      <h1>
+        HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME
+        HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME
+        HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME
+        HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME
+        HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME HOME
+      </h1>
+    </div>
+  );
 }
