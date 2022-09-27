@@ -1,0 +1,40 @@
+.navbar {
+  border: 1px solid red;
+  height: 170px;
+}
+.navOne {
+  border: 1px solid rgb(32, 23, 132);
+  height: 35px;
+  position: fixed;
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+  display: flex;
+  color: white;
+  align-items: center;
+ 
+}
+.navTwo {
+  text-align: center;
+  border-bottom: 2px solid rgb(0, 0, 0);
+  height: auto;
+  width: 88%;
+  margin: auto;
+  padding-top: 3rem 
+}
+#navTwo_img{
+    width: 22%;
+    margin: auto;
+}
+.navTwo>div:nth-child(2){
+    margin-top: -1rem;
+}
+.navThree {
+  padding: 4px;
+  border-bottom: 1px solid rgb(0, 0, 0);
+  height: auto;
+  width: 88%;
+  margin: auto;
+}
+h1:nth-child(1){
+  margin-left: 4rem;
+}
