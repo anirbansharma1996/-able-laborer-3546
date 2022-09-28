@@ -9,6 +9,7 @@ export default function Footer() {
           width: "70%",
           alignItems: "center",
           justifyContent: "center",
+          marginTop: "1rem",
         }}
       >
         <input style={{ height: "20px", width: "30%" }} type="text" />
@@ -42,11 +43,12 @@ export default function Footer() {
         <h4>CAREERS |</h4>
         <h4>E-PAPER </h4>
       </div>
-      <div  style={{
+      <div
+        style={{
           margin: "auto",
           width: "83%",
-         
-        }}>
+        }}
+      >
         <p>Copyright © 2015 - 2022 Deccan Chronicle.</p>
         <p>Designed, Developed & Maintained By Daksham</p>
       </div>

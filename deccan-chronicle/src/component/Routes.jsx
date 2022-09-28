@@ -8,7 +8,7 @@ export default function Routes() {
     { path: "/World", title: "World" },
     { path: "/Entertainment", title: "Entertainment" },
     { path: "/Jobs-&-Education", title: "Job & Education" },
-    { path: "/Sports", title: "Sprots" },
+    { path: "/Sports", title: "Sports" },
     { path: "/Technology", title: "Technology" },
     { path: "/Lifestyle", title: "Lifestyle" },
     { path: "/Gallery", title: "Gallery" },
@@ -20,6 +20,7 @@ export default function Routes() {
   };
   let notActive = {
     textDecoration: "none",
+    color:"black"
   };
 
   return (

@@ -2,8 +2,9 @@ import "../css/navbar.css";
 import Routes from "./Routes";
 import "../css/Dropdown.css";
 import Sidebar from "./Sidebar";
-
+import { useRef } from "react";
 export default function Navbar() {
+  const buttonref = useRef(null);
   return (
     <>
       <div className="navOne">
@@ -23,14 +24,13 @@ export default function Navbar() {
         <h3>e-Paper | Sunday Chronicle </h3>
         <div
           style={{
-            marginLeft:"25rem",
+            textAlign: "center",
             display: "flex",
-            flexWrap: "wrap",
-            alignItems: "center",
+            marginLeft: "25rem",
           }}
         >
           <input type="checkbox" />
-          <h4>Auto Refresh | Coporate Insolvency Resolution Process</h4>
+          <h4>Auto Refresh | Corporate Insolvency Resolution Process</h4>
         </div>
       </div>
       <div className="navTwo">
@@ -41,13 +41,21 @@ export default function Navbar() {
             alt="navtwo"
           />
         </div>
-        <div>
+        <div ref={buttonref}>
           <h6>Tuesday, Sep 27, 2022 | Last Update : 06:01 PM IST</h6>
         </div>
       </div>
       <div className="navThree">
         <Routes />
       </div>
+      <button className="btn"
+        onClick={() => {
+          buttonref.current.scrollIntoView({ behavior: "smooth" });
+        }}
+      >
+        TOP ▲ 
+      </button>
+
     </>
   );
 }
