@@ -38,7 +38,7 @@
 
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   padding: 12px 36px;
-  z-index: 1;
+  z-index: 3;
   margin-top: -2.5rem;
 }
 
@@ -77,21 +77,33 @@ p:hover {
     width: 20%;
     position: fixed;
     left: 13rem;
-    top: 33rem;
+    top: 63rem;
     color: #f9f9f9;
     border-radius: 10px;
   }
 }
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
   .btn {
     border: 0px solid;
     background-color: rgb(42, 111, 111);
     height: 40px;
     width: 20%;
     position: fixed;
-    left: 13rem;
-    top: 33rem;
+    left: 23rem;
+    top: 32rem;
     color: #f9f9f9;
     border-radius: 10px;
   }
 }
+/* @media (max-width: 1678px) {
+  .btn {
+    border: none;
+    background-color:none;
+    height: none;;
+    width:none;
+    position:none;
+    left: 93rem;
+    top: 60rem;
+    color:none;
+    border-radius: none;
+  } */

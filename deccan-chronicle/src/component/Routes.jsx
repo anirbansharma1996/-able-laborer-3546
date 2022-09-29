@@ -17,6 +17,7 @@ export default function Routes() {
   let active = {
     textDecoration: "none",
     color: "red",
+    
   };
   let notActive = {
     textDecoration: "none",
@@ -34,11 +35,11 @@ export default function Routes() {
           to={path}
           end
         > 
-         {title} 
+        <b> {title}</b>
         </NavLink>
       ))}
       <div class="dropdown">
-        <span>More...↓</span>
+       <b><span>More...↓</span></b> 
         <div class="dropdown-content">
           <p>Business</p>
           <p>Opinion</p>
