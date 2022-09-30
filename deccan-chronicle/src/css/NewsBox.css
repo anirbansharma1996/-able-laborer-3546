@@ -1,0 +1,31 @@
+#news_box {
+  width: 88%;
+  margin: auto;
+}
+#news_box > div {
+  padding: 3px;
+  display: flex;
+  margin: 5px;
+  border-radius: 7px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+ 
+}
+#news_box>div>div{
+    width: 100%;
+}
+#news_box>div>div:nth-child(1){
+  text-align: center;
+}
+#news_box>div>div>img{
+   width: 50%;
+}
+.button{
+  text-align: center;
+  margin: 5px;
+}
+@media (max-width:620px) {
+  #news_box > div{
+    display: grid;
+    
+  }
+}

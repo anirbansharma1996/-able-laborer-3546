@@ -11,7 +11,7 @@ export default function Lifestyle() {
         <div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cbg70t0lgege75qkl44n4o92n3-20220518064910.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-f3818761d52q6q7e4sjfalg6g7-20211012074746.jpeg"
               alt="1"
             />
             <h3>Where is Santosh? TRS leaders left wondering</h3>
@@ -19,7 +19,7 @@ export default function Lifestyle() {
           </div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-sffc5k2vv0g1gpua89mbq127g7-20181213141424.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-rk2iu50kqejb96bo47d7d4jap5-20220929112953.jpeg"
               alt="1"
             />
             <h3>Centre bans Popular Front of Indis for 5 years</h3>
@@ -34,7 +34,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928070746.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928124433.jpeg"
                 alt="mid"
               />
             </div>
@@ -45,7 +45,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928071109.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-eh5rhdio7ldu6chjhcrou170r0-20190425222610.jpeg"
                 alt="mid"
               />
             </div>
@@ -56,7 +56,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-7jre32ak83bgc9oeop6u42s0a4-20210811230327.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-0rperakk9dujacp8r6gu0tsp66-20220924215912.jpeg"
                 alt="mid"
               />
             </div>
@@ -67,7 +67,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-s702pclqh4p3l96s4vq358jct0-20220518215054.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928084727.jpeg"
                 alt="mid"
               />
             </div>
@@ -78,7 +78,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vajepisnh0feh6j7fus61fqma4-20190420003817.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-fkif9kai9qig22o9ci60rt3u45-20220927125236.jpeg"
                 alt="mid"
               />
             </div>
@@ -89,7 +89,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cu9jecjqe2r4kgbkpb3j1h8h95-20220927224639.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-9b4q6uchcus8aqmu5uii4tsf83-20220807004547.jpeg"
                 alt="mid"
               />
             </div>
@@ -102,7 +102,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-t7clda4mcvmgs4g1vvdt5e2db3-20200827111404.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-0rperakk9dujacp8r6gu0tsp66-20220924214602.jpeg"
                 alt="mid"
               />
             </div>
@@ -116,27 +116,13 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-gaubsqp125hujnsopp64oer6v5-20220922002039.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-0rperakk9dujacp8r6gu0tsp66-20220924213743.jpeg"
                 alt="mid"
               />
             </div>
             <div>
               <h5>
                 Renaming row sparks interest in 90s history of Andhra Pradesh
-              </h5>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-5ehdbsf0si77l0jdan41q2jlo1-20180626023634.jpeg"
-                alt="mid"
-              />
-            </div>
-            <div>
-              <h5>
-                Police in tizzy after citizen reveals traffic rule violations by
-                cops
               </h5>
             </div>
           </div>
@@ -271,7 +257,7 @@ export default function Lifestyle() {
           <div>
             <img
               id="new_common_img"
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-56jppbb2ma6gekbm96p73imdm3-20220811234016.Medi.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-5c1droacmv2cna13ff287lhjo0-20200429082552.Medi.jpeg"
               alt=""
             />
           </div>
@@ -287,7 +273,7 @@ export default function Lifestyle() {
               <div>
                 <img
                   id="new_common_img1"
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-56jppbb2ma6gekbm96p73imdm3-20220811234016.Medi.jpeg"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-5c1droacmv2cna13ff287lhjo0-20200429082552.Medi.jpeg"
                   alt=""
                 />
               </div>
@@ -299,7 +285,7 @@ export default function Lifestyle() {
               <div>
                 <img
                   id="new_common_img1"
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-3e60l6v07vk8jd76r50eikc391-20201209155425.Medi.jpeg"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-rcf7i7ej6lusuevh8j9d3rg7f1-20200314144258.Medi.jpeg"
                   alt=""
                 />
               </div>
@@ -311,7 +297,7 @@ export default function Lifestyle() {
               <div>
                 <img
                   id="new_common_img1"
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-an4v33r20oo3l8ussn00bv8gu2-20200810174058.Medi.jpeg"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-lm5svqiloml481tidqq5t09s82-20200209162556.Medi.jpeg"
                   alt=""
                 />
               </div>
@@ -323,7 +309,7 @@ export default function Lifestyle() {
               <div>
                 <img
                   id="new_common_img1"
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-es84r4783g3f7ti3uq07f80o40-20200809175935.Medi.jpeg"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-i2h2i9buncmtmekijibjlr84d0-20200308125825.Medi.jpeg"
                   alt=""
                 />
               </div>
@@ -340,7 +326,7 @@ export default function Lifestyle() {
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>TECHNOLOGY</u>
+              <u>FASHION AND BEAUTY</u>
             </h3>
           </div>
         </div>
@@ -349,7 +335,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926120352.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-rgfdkcjnh1vh7094dnnhkbe1h1-20220217083459.jpeg"
                 alt=""
               />
             </div>
@@ -360,7 +346,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-u1k41kks0sdnt8h85pgen5qq67-20220925121920.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nq5l86432mrog69lbqsq5cs0m4-20220806004332.jpeg"
                 alt=""
               />
             </div>
@@ -374,7 +360,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-d51mondbaernmd7f725ddgo6h7-20210312010311.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-botj45runr95un2ebtjubhehf4-20180112054644.jpeg"
                 alt=""
               />
             </div>
@@ -404,7 +390,7 @@ export default function Lifestyle() {
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>WORLD</u>
+              <u>HEALTH AND WELLBEING</u>
             </h3>
           </div>
         </div>
@@ -413,7 +399,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-rk2iu50kqejb96bo47d7d4jap5-20220929071725.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c5l1d3bh9m4qgmunqtg5es0mt5-20171227072053.jpeg"
                 alt=""
               />
             </div>
@@ -424,7 +410,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928122758.jpeg"
+                src="https://dc-cdn.s3-ap-southeast-1.amazonaws.com/dc-Cover-eqq44eoltdpsal1gvcqqns8p34-20161009015236.jpeg"
                 alt=""
               />
             </div>
@@ -435,7 +421,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-fkif9kai9qig22o9ci60rt3u45-20220927104633.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-14ipgp97jj28hpvpls0itnmhg3-20190725101934.jpeg"
                 alt=""
               />
             </div>
@@ -446,7 +432,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-iss492mpkj8bbr8fg1dsq0e9a1-20171024094347.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-94jctlgusa2far3oj8kd40h3s6-20220712213237.jpeg"
                 alt=""
               />
             </div>
@@ -460,7 +446,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-gf9jdct967ojpubp3l3c5o0kq7-20170505033721.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-aj29p4im7l2qqjcq6u9jpv0hn4-20211202000027.jpeg"
                 alt=""
               />
             </div>
@@ -471,7 +457,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-2lrn6f0v8a0dqosvcvg2bc8gn5-20220906014728.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-1el4m6i422j88qp3ndsfbu6df1-20220214152120.jpeg"
                 alt=""
               />
             </div>
@@ -482,7 +468,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926113715.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qghrk9hijcefe1148k5qe39081-20210407180309.jpeg"
                 alt=""
               />
             </div>
@@ -511,7 +497,7 @@ export default function Lifestyle() {
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>SCIENCE</u>
+              <u>CULTURE AND SOCIETY</u>
             </h3>
           </div>
         </div>
@@ -520,7 +506,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926133722.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-8gk6tt4662p670p92v0b7hu5t7-20220902192222.jpeg"
                 alt=""
               />
             </div>
@@ -534,7 +520,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvqjg8mel2u3sg9ptd4tgrdi2-20220924123658.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-l76i5vpm67r7vkjr1h8n40rgr0-20220403065549.jpeg"
                 alt=""
               />
             </div>
@@ -547,7 +533,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-h0jvlhlpi6lv5jtkststtnr2u4-20220624011647.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-drvpk3jrildmldcnod4nkcelo7-20220906102901.jpeg"
                 alt=""
               />
             </div>
@@ -573,7 +559,7 @@ export default function Lifestyle() {
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>BUSINESS</u>
+              <u>FOODS AND PRECIPES</u>
             </h3>
           </div>
         </div>
@@ -582,7 +568,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-79ut93r18bjspmh2e2a9vtg2n6-20200420105458.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-bvu6f5n9korom8ajf167kbqmp2-20210919175345.jpeg"
                 alt=""
               />
             </div>
@@ -596,7 +582,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-l6g3lm4p31or8dgjp97aq6r1p2-20210103213701.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-sgk1up8ukth7k895t3jicv8611-20210725181618.jpeg"
                 alt=""
               />
             </div>
@@ -607,7 +593,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-au7mok02br0m258dgrfuqgmvt0-20200612111912.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-8mua4to87cue854mmf1shniag4-20190620101512.jpeg"
                 alt=""
               />
             </div>
@@ -618,7 +604,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928085634.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-agn048sljsuhi26r6vuk6hm6s3-20170314065755.jpeg"
                 alt=""
               />
             </div>
@@ -632,7 +618,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-1ansuiu0ptkt8docqc0gvba2a6-20180926182506.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-gv1mflmqh04i0hf1g5938mho93-20161212060441.jpeg"
                 alt=""
               />
             </div>
@@ -643,7 +629,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926104208.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-mmsv9284jdcvaf1j27djvuk832-20210621070800.jpeg"
                 alt=""
               />
             </div>
@@ -657,7 +643,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-9lbm7o8pcr3ge42nvht2tu1902-20220601002942.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-j4v1bmtnvqfkb3nhuqaod2e6d5-20220226130638.jpeg"
                 alt=""
               />
             </div>
@@ -670,7 +656,7 @@ export default function Lifestyle() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926104208.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-4v4k159oa724qgvlnurb1m1go3-20220701121740.jpeg"
                 alt=""
               />
             </div>

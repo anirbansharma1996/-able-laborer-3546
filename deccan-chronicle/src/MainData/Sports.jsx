@@ -11,7 +11,7 @@ export default function Sports() {
         <div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cbg70t0lgege75qkl44n4o92n3-20220518064910.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-fsaifujltj2ug11qfdc6nmhks0-20211101202946.jpeg"
               alt="1"
             />
             <h3>Where is Santosh? TRS leaders left wondering</h3>
@@ -19,7 +19,7 @@ export default function Sports() {
           </div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-sffc5k2vv0g1gpua89mbq127g7-20181213141424.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-5foek4rvenglkmk4p4v3bnoi40-20200418171559.jpeg"
               alt="1"
             />
             <h3>Centre bans Popular Front of Indis for 5 years</h3>
@@ -34,7 +34,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928070746.jpeg"
+                src="https://dc-cdn.s3-ap-southeast-1.amazonaws.com/dc-Cover-lm218nsvj55hr664lcmehetgn5-20160725153521.jpeg"
                 alt="mid"
               />
             </div>
@@ -45,7 +45,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928071109.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-3gvh0j18kuoshtir76ktj5ab81-20181016132100.jpeg"
                 alt="mid"
               />
             </div>
@@ -56,7 +56,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-7jre32ak83bgc9oeop6u42s0a4-20210811230327.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-fkif9kai9qig22o9ci60rt3u45-20220927072620.jpeg"
                 alt="mid"
               />
             </div>
@@ -67,7 +67,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-s702pclqh4p3l96s4vq358jct0-20220518215054.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-amh1tf2ocqs83pi1uh2uagkbr3-20220925232705.jpeg"
                 alt="mid"
               />
             </div>
@@ -78,7 +78,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vajepisnh0feh6j7fus61fqma4-20190420003817.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-u1k41kks0sdnt8h85pgen5qq67-20220925073753.jpeg"
                 alt="mid"
               />
             </div>
@@ -89,7 +89,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cu9jecjqe2r4kgbkpb3j1h8h95-20220927224639.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-u1k41kks0sdnt8h85pgen5qq67-20220925102446.jpeg"
                 alt="mid"
               />
             </div>
@@ -102,7 +102,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-t7clda4mcvmgs4g1vvdt5e2db3-20200827111404.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tkqsndus9t8c890bmr4dfeii36-20220924181441.jpeg"
                 alt="mid"
               />
             </div>
@@ -116,7 +116,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-gaubsqp125hujnsopp64oer6v5-20220922002039.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-jrh5q16hfgd8r8kdbgb32sa3i2-20220923172925.jpeg"
                 alt="mid"
               />
             </div>
@@ -129,21 +129,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-5ehdbsf0si77l0jdan41q2jlo1-20180626023634.jpeg"
-                alt="mid"
-              />
-            </div>
-            <div>
-              <h5>
-                Police in tizzy after citizen reveals traffic rule violations by
-                cops
-              </h5>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cu9jecjqe2r4kgbkpb3j1h8h95-20220927224835.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-amh1tf2ocqs83pi1uh2uagkbr3-20220925232705.jpeg"
                 alt="mid"
               />
             </div>
@@ -271,7 +257,7 @@ export default function Sports() {
           <div>
             <img
               id="new_common_img"
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-56jppbb2ma6gekbm96p73imdm3-20220811234016.Medi.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-q3qaemi975snai7kir9mh9om61-20210723191813.Medi.jpeg"
               alt=""
             />
           </div>
@@ -287,7 +273,7 @@ export default function Sports() {
               <div>
                 <img
                   id="new_common_img1"
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-56jppbb2ma6gekbm96p73imdm3-20220811234016.Medi.jpeg"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-oju0aqlan3ibacnr9820japfh1-20200321100524.Medi.jpeg"
                   alt=""
                 />
               </div>
@@ -299,7 +285,7 @@ export default function Sports() {
               <div>
                 <img
                   id="new_common_img1"
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-3e60l6v07vk8jd76r50eikc391-20201209155425.Medi.jpeg"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-2opdlm8e3v8ae0k4t2p5ckifh7-20200311154914.Medi.jpeg"
                   alt=""
                 />
               </div>
@@ -311,7 +297,7 @@ export default function Sports() {
               <div>
                 <img
                   id="new_common_img1"
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-an4v33r20oo3l8ussn00bv8gu2-20200810174058.Medi.jpeg"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-q3qaemi975snai7kir9mh9om61-20210723191813.Medi.jpeg"
                   alt=""
                 />
               </div>
@@ -323,7 +309,7 @@ export default function Sports() {
               <div>
                 <img
                   id="new_common_img1"
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-es84r4783g3f7ti3uq07f80o40-20200809175935.Medi.jpeg"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-028qhhsmm59okfnpe6p457r137-20200302180557.Medi.jpeg"
                   alt=""
                 />
               </div>
@@ -340,7 +326,7 @@ export default function Sports() {
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>TECHNOLOGY</u>
+              <u>CRICKET</u>
             </h3>
           </div>
         </div>
@@ -349,7 +335,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926120352.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-emf38od04bkf2kd38k2qoeh3u0-20220912171347.jpeg"
                 alt=""
               />
             </div>
@@ -360,7 +346,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-u1k41kks0sdnt8h85pgen5qq67-20220925121920.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-lqunm81tcooh15nppcmi681n73-20180224134927.jpeg"
                 alt=""
               />
             </div>
@@ -374,7 +360,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-d51mondbaernmd7f725ddgo6h7-20210312010311.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-9onsukibqmp47m3lfgom87d0p7-20200319210438.jpeg"
                 alt=""
               />
             </div>
@@ -404,7 +390,7 @@ export default function Sports() {
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>WORLD</u>
+              <u>FOOTBALL</u>
             </h3>
           </div>
         </div>
@@ -413,7 +399,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-rk2iu50kqejb96bo47d7d4jap5-20220929071725.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-fq4pu8kdbqc4c56g10tqgd0u42-20170228002944.jpeg"
                 alt=""
               />
             </div>
@@ -424,7 +410,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928122758.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-654uuva4erslq0eqlrvf2sckp6-20220209170530.jpeg"
                 alt=""
               />
             </div>
@@ -435,7 +421,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-fkif9kai9qig22o9ci60rt3u45-20220927104633.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-icc51bi9qvgjpc4606sbnkrhm2-20211125225419.jpeg"
                 alt=""
               />
             </div>
@@ -446,7 +432,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-iss492mpkj8bbr8fg1dsq0e9a1-20171024094347.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-icc51bi9qvgjpc4606sbnkrhm2-20220323180533.jpeg"
                 alt=""
               />
             </div>
@@ -460,7 +446,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-gf9jdct967ojpubp3l3c5o0kq7-20170505033721.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-5s0glmo3hnhf27rgnjvsp6ogt0-20171011164310.jpeg"
                 alt=""
               />
             </div>
@@ -471,7 +457,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-2lrn6f0v8a0dqosvcvg2bc8gn5-20220906014728.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-8d8umgg71krcrbrb84kqmo5t44-20191128191847.jpeg"
                 alt=""
               />
             </div>
@@ -482,7 +468,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926113715.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-icc51bi9qvgjpc4606sbnkrhm2-20211115225259.jpeg"
                 alt=""
               />
             </div>
@@ -493,7 +479,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qqjgom048dvl9mp6ft24d2spn6-20220302224649.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-icc51bi9qvgjpc4606sbnkrhm2-20211121220200.jpeg"
                 alt=""
               />
             </div>
@@ -511,7 +497,7 @@ export default function Sports() {
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>SCIENCE</u>
+              <u>TENNIS</u>
             </h3>
           </div>
         </div>
@@ -520,7 +506,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926133722.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-8n9q5ujhg2f49eo0vu9hfdk7r5-20210726165226.jpeg"
                 alt=""
               />
             </div>
@@ -534,7 +520,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvqjg8mel2u3sg9ptd4tgrdi2-20220924123658.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qe3ciadib90ej6udk4gg0gjgr2-20210701180834.jpeg"
                 alt=""
               />
             </div>
@@ -547,7 +533,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-h0jvlhlpi6lv5jtkststtnr2u4-20220624011647.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-fsaifujltj2ug11qfdc6nmhks0-20210710212547.jpeg"
                 alt=""
               />
             </div>
@@ -573,7 +559,7 @@ export default function Sports() {
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>BUSINESS</u>
+              <u>BADMINTON</u>
             </h3>
           </div>
         </div>
@@ -582,7 +568,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-79ut93r18bjspmh2e2a9vtg2n6-20200420105458.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-4tke49f3u01f4u5mpdim9knv91-20220717132822.jpeg"
                 alt=""
               />
             </div>
@@ -596,7 +582,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-l6g3lm4p31or8dgjp97aq6r1p2-20210103213701.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qjjcet12hqum0nc0817a26g9j5-20210905123347.jpeg"
                 alt=""
               />
             </div>
@@ -607,7 +593,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-au7mok02br0m258dgrfuqgmvt0-20200612111912.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qjjcet12hqum0nc0817a26g9j5-20210806113207.jpeg"
                 alt=""
               />
             </div>
@@ -618,7 +604,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928085634.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-8ealkvfg994usha13v3jrpgsc7-20220516071354.jpeg"
                 alt=""
               />
             </div>
@@ -632,7 +618,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-1ansuiu0ptkt8docqc0gvba2a6-20180926182506.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-705b42s1np493d8rg68df9mh23-20170817162918.jpeg"
                 alt=""
               />
             </div>
@@ -643,7 +629,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926104208.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-icc51bi9qvgjpc4606sbnkrhm2-20211111210800.jpeg"
                 alt=""
               />
             </div>
@@ -657,7 +643,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-9lbm7o8pcr3ge42nvht2tu1902-20220601002942.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-eppn3pr6bm35oiv0d1pnba9sm2-20220515212522.jpeg"
                 alt=""
               />
             </div>
@@ -670,7 +656,7 @@ export default function Sports() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926104208.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-m2nn8q2a7pv96af9ln605i04p0-20211205135143.jpeg"
                 alt=""
               />
             </div>

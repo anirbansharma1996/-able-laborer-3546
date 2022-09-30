@@ -3,15 +3,15 @@ export default function Technology() {
   return (
     <>
       <div className="heading">
-      <h3>
-        <u>TECHNOLOGY</u>
-      </h3>
-    </div>
-    <div className="home_top_main_div">
+        <h3>
+          <u>TECHNOLOGY</u>
+        </h3>
+      </div>
+      <div className="home_top_main_div">
         <div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cbg70t0lgege75qkl44n4o92n3-20220518064910.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926120352.jpeg"
               alt="1"
             />
             <h3>Where is Santosh? TRS leaders left wondering</h3>
@@ -19,7 +19,7 @@ export default function Technology() {
           </div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-sffc5k2vv0g1gpua89mbq127g7-20181213141424.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-u1k41kks0sdnt8h85pgen5qq67-20220925121920.jpeg"
               alt="1"
             />
             <h3>Centre bans Popular Front of Indis for 5 years</h3>
@@ -34,7 +34,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928070746.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-d51mondbaernmd7f725ddgo6h7-20210312010311.jpeg"
                 alt="mid"
               />
             </div>
@@ -45,7 +45,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928071109.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-hs44g1gierq776h4ds8v2bh0p0-20220922113951.jpeg"
                 alt="mid"
               />
             </div>
@@ -56,7 +56,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-7jre32ak83bgc9oeop6u42s0a4-20210811230327.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200825163909.jpeg"
                 alt="mid"
               />
             </div>
@@ -67,7 +67,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-s702pclqh4p3l96s4vq358jct0-20220518215054.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-fikjf1h3p5cpgp0a5ldog6ui60-20170526015144.jpeg"
                 alt="mid"
               />
             </div>
@@ -78,7 +78,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vajepisnh0feh6j7fus61fqma4-20190420003817.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-sjbi1m2t5drinidtkmqvnftoq4-20220918170744.jpeg"
                 alt="mid"
               />
             </div>
@@ -89,7 +89,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cu9jecjqe2r4kgbkpb3j1h8h95-20220927224639.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-p7gblobppvmu7vlufl9hmuc851-20200506111907.jpeg"
                 alt="mid"
               />
             </div>
@@ -102,7 +102,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-t7clda4mcvmgs4g1vvdt5e2db3-20200827111404.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-sjbi1m2t5drinidtkmqvnftoq4-20220918185412.jpeg"
                 alt="mid"
               />
             </div>
@@ -116,7 +116,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-gaubsqp125hujnsopp64oer6v5-20220922002039.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ctf0fn8jmimeuht7sugco44fj6-20200907085824.jpeg"
                 alt="mid"
               />
             </div>
@@ -260,8 +260,8 @@ export default function Technology() {
           </div>
         </div>
       </div>
-           {/*************************************NEW-COMMON-DIV************************************************ */}
-           <div className="new_common">
+      {/*************************************NEW-COMMON-DIV************************************************ */}
+      <div className="new_common">
         <div>
           <div>
             <h2 style={{ margin: "1px" }}>
@@ -271,7 +271,7 @@ export default function Technology() {
           <div>
             <img
               id="new_common_img"
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-56jppbb2ma6gekbm96p73imdm3-20220811234016.Medi.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-uite3ht17d3qokiucq4k6ha7u0-20200106124032.Medi.jpeg"
               alt=""
             />
           </div>
@@ -287,7 +287,7 @@ export default function Technology() {
               <div>
                 <img
                   id="new_common_img1"
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-56jppbb2ma6gekbm96p73imdm3-20220811234016.Medi.jpeg"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-uite3ht17d3qokiucq4k6ha7u0-20200106124032.Medi.jpeg"
                   alt=""
                 />
               </div>
@@ -299,7 +299,7 @@ export default function Technology() {
               <div>
                 <img
                   id="new_common_img1"
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-3e60l6v07vk8jd76r50eikc391-20201209155425.Medi.jpeg"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-v49nbrup06ddnafqs6nqrig784-20191115100410.Medi.jpeg"
                   alt=""
                 />
               </div>
@@ -311,7 +311,7 @@ export default function Technology() {
               <div>
                 <img
                   id="new_common_img1"
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-an4v33r20oo3l8ussn00bv8gu2-20200810174058.Medi.jpeg"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-iiil0cn21ludapnv2i1v17hgq6-20191011100718.Medi.jpeg"
                   alt=""
                 />
               </div>
@@ -323,13 +323,15 @@ export default function Technology() {
               <div>
                 <img
                   id="new_common_img1"
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-es84r4783g3f7ti3uq07f80o40-20200809175935.Medi.jpeg"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-pchrhofirmi4uto5gh0ttbqp05-20190911133837.Medi.jpeg"
                   alt=""
                 />
               </div>
               <div>
-                <h5>Actor Rana Duggubati and entrepreneur Miheeka Bajaj tied the
-                knot on Saturday</h5>
+                <h5>
+                  Actor Rana Duggubati and entrepreneur Miheeka Bajaj tied the
+                  knot on Saturday
+                </h5>
               </div>
             </div>
           </div>
@@ -340,7 +342,7 @@ export default function Technology() {
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>TECHNOLOGY</u>
+              <u>MOBILE AND TABS</u>
             </h3>
           </div>
         </div>
@@ -349,7 +351,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926120352.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6vcqtlfu5qn38at3rp993fd81-20200212065053.jpeg"
                 alt=""
               />
             </div>
@@ -360,7 +362,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-u1k41kks0sdnt8h85pgen5qq67-20220925121920.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-4v24huvehu1ggor0uk567vnju0-20211007095354.jpeg"
                 alt=""
               />
             </div>
@@ -374,7 +376,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-d51mondbaernmd7f725ddgo6h7-20210312010311.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-0oh9vvs9288dmj8io1b3nkmhg4-20220114111035.jpeg"
                 alt=""
               />
             </div>
@@ -404,7 +406,7 @@ export default function Technology() {
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>WORLD</u>
+              <u>GADGETS</u>
             </h3>
           </div>
         </div>
@@ -413,7 +415,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-rk2iu50kqejb96bo47d7d4jap5-20220929071725.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-erno58a0h8mun8j68mnngdidc7-20211201125855.jpeg"
                 alt=""
               />
             </div>
@@ -424,7 +426,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928122758.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-niaiiuo332tf0dti0cauos9n46-20210821163628.jpeg"
                 alt=""
               />
             </div>
@@ -435,7 +437,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-fkif9kai9qig22o9ci60rt3u45-20220927104633.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ctf0fn8jmimeuht7sugco44fj6-20200907085824.jpeg"
                 alt=""
               />
             </div>
@@ -446,7 +448,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-iss492mpkj8bbr8fg1dsq0e9a1-20171024094347.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200815151636.jpeg"
                 alt=""
               />
             </div>
@@ -460,7 +462,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-gf9jdct967ojpubp3l3c5o0kq7-20170505033721.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-4j1h2oas9ctplr1ntgm5l2cis4-20181107105211.jpeg"
                 alt=""
               />
             </div>
@@ -471,7 +473,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-2lrn6f0v8a0dqosvcvg2bc8gn5-20220906014728.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-7sthnv1racnkcspufjmsq7r465-20210922203115.jpeg"
                 alt=""
               />
             </div>
@@ -482,7 +484,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926113715.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-hs44g1gierq776h4ds8v2bh0p0-20220922113951.jpeg"
                 alt=""
               />
             </div>
@@ -493,7 +495,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qqjgom048dvl9mp6ft24d2spn6-20220302224649.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g63padcnfttl6cd653skqm7fi5-20211027191053.jpeg"
                 alt=""
               />
             </div>
@@ -511,7 +513,7 @@ export default function Technology() {
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>SCIENCE</u>
+              <u>IN OTHER NEWS</u>
             </h3>
           </div>
         </div>
@@ -520,7 +522,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926133722.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-4j1h2oas9ctplr1ntgm5l2cis4-20181121112802.jpeg"
                 alt=""
               />
             </div>
@@ -534,7 +536,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvqjg8mel2u3sg9ptd4tgrdi2-20220924123658.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-sjbi1m2t5drinidtkmqvnftoq4-20220918170744.jpeg"
                 alt=""
               />
             </div>
@@ -547,7 +549,7 @@ export default function Technology() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-h0jvlhlpi6lv5jtkststtnr2u4-20220624011647.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-8i6cov2nia0vn21ol6b5690i60-20220128115501.jpeg"
                 alt=""
               />
             </div>
@@ -565,120 +567,6 @@ export default function Technology() {
               src="https://media1.giphy.com/media/3oEjI6SIIHBdRxXI40/200w.gif?cid=82a1493br6myz2rj2idf8hmn3w7vmqv6itnzdnhy0qs2j6co&rid=200w.gif&ct=g"
               alt=""
             />
-          </div>
-        </div>
-      </div>
-      {/*****************************-----BUSINESSS-----********************************/}
-      <div className="rest_all_same">
-        <div>
-          <div>
-            <h3 style={{ margin: "-0.1px" }}>
-              <u>BUSINESS</u>
-            </h3>
-          </div>
-        </div>
-        {/*////////////////////////-----2ND----/////////////////////////*/}
-        <div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-79ut93r18bjspmh2e2a9vtg2n6-20200420105458.jpeg"
-                alt=""
-              />
-            </div>
-            <div>
-              <h4>
-                Rupee plunges 37 paisa to close at all-time low of 81.90 aganist
-                US dollar
-              </h4>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-l6g3lm4p31or8dgjp97aq6r1p2-20210103213701.jpeg"
-                alt=""
-              />
-            </div>
-            <div>
-              <h4>GST revenue in september likely at Rs.1.45 lakh cr</h4>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-au7mok02br0m258dgrfuqgmvt0-20200612111912.jpeg"
-                alt=""
-              />
-            </div>
-            <div>
-              <h4>Rupee raise 9paisa to close at 81.58 aganist US dollar</h4>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928085634.jpeg"
-                alt=""
-              />
-            </div>
-            <div>
-              <h4>Canadian pension fund opens office in India</h4>
-            </div>
-          </div>
-        </div>
-        {/*///////////////////////----3RD-----//////////////////////////*/}
-        <div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-1ansuiu0ptkt8docqc0gvba2a6-20180926182506.jpeg"
-                alt=""
-              />
-            </div>
-            <div>
-              <h5>Hero Xtreme 160R stealth Launched</h5>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926104208.jpeg"
-                alt=""
-              />
-            </div>
-            <div>
-              <h5>
-                Rupee plunges 37 paisa to close at all-time low of 81.90 aganist
-                US dollar
-              </h5>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-9lbm7o8pcr3ge42nvht2tu1902-20220601002942.jpeg"
-                alt=""
-              />
-            </div>
-            <div>
-              <h5>
-                Salaries in India likely to rise by 10.4 pc in 2023: Aon Survey
-              </h5>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926104208.jpeg"
-                alt=""
-              />
-            </div>
-            <div>
-              <h5>
-                No let-up in Rupee depreciation; touches another lifetime low
-              </h5>
-            </div>
           </div>
         </div>
       </div>
