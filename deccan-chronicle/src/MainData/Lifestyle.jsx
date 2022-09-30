@@ -7,11 +7,11 @@ export default function Lifestyle() {
         <u>LIFESTYLE</u>
       </h3>
     </div>
-      <div className="home_top_main_div">
+    <div className="home_top_main_div">
         <div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928065013.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cbg70t0lgege75qkl44n4o92n3-20220518064910.jpeg"
               alt="1"
             />
             <h3>Where is Santosh? TRS leaders left wondering</h3>
@@ -19,24 +19,13 @@ export default function Lifestyle() {
           </div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928074740.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-sffc5k2vv0g1gpua89mbq127g7-20181213141424.jpeg"
               alt="1"
             />
             <h3>Centre bans Popular Front of Indis for 5 years</h3>
             <p>
               PFI and its associates or affiliates or fronts have been indulging
               in unlawful activites,says the government notification
-            </p>
-          </div>
-          <div>
-            <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ae0epo7t1as91i1b1k4582b5b0-20220928005337.jpeg"
-              alt="1"
-            />
-            <h3>CM Jagan offers silk robes to Tirumala deity</h3>
-            <p>
-              Cheif Minister carried the set of scared silk robes on his head to
-              the hill temple through the Maha Dwaram in a celestial procession
             </p>
           </div>
         </div>
@@ -165,55 +154,6 @@ export default function Lifestyle() {
               </h5>
             </div>
           </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-i49qjpv8o6lr0dnj6l307dtt17-20220927224148.jpeg"
-                alt="mid"
-              />
-            </div>
-            <div>
-              <h5>Rain wrecks havoc in Hyderabad for the second day</h5>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-h93lf3ifb366v49av3lo3t8sj3-20220928005403.jpeg"
-                alt="mid"
-              />
-            </div>
-            <div>
-              <h5>‘Visit AP 2023’ campaign to attract tourists to state</h5>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-sakj429bl7upg5d8lst21ac9p1-20180725003550.jpeg"
-                alt="mid"
-              />
-            </div>
-            <div>
-              <h5>
-                Hyderabad traffic cops to crack whip on auto drivers, shop
-                owners
-              </h5>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-eh5rhdio7ldu6chjhcrou170r0-20190425222610.jpeg"
-                alt="mid"
-              />
-            </div>
-            <div>
-              <h5>
-                Sudden, heavy workouts causing heart ailments among youth: Docs
-              </h5>
-            </div>
-          </div>
         </div>
         {/* ////////////////////////////////////////////////////////////////////////////////////////// */}
         <div>
@@ -308,40 +248,6 @@ export default function Lifestyle() {
                 />
               </div>
             </div>
-            <div>
-              <div>
-                <h4>Don't give kids antibiotics,docs warn parents</h4>
-              </div>
-              <div>
-                <img
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-14ipgp97jj28hpvpls0itnmhg3-20190725101934.jpeg"
-                  alt="aaa"
-                />
-              </div>
-            </div>
-            <div>
-              <div>
-                <h4>How to get Thick eyebrows: 10 Simple ways To Do</h4>
-              </div>
-              <div>
-                <img
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-3l9hd2sro89cco1lv6r0kducu3-20220825135126.jpeg"
-                  alt="aaa"
-                />
-              </div>
-            </div>
-            <div>
-              {" "}
-              <div>
-                <h4>12Best Jucies for weight loss</h4>
-              </div>
-              <div>
-                <img
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-3l9hd2sro89cco1lv6r0kducu3-20220825141053.jpeg"
-                  alt="aaa"
-                />
-              </div>
-            </div>
             <p
               style={{
                 display: "flex",
@@ -351,6 +257,81 @@ export default function Lifestyle() {
             >
               Ad.
             </p>
+          </div>
+        </div>
+      </div>
+           {/*************************************NEW-COMMON-DIV************************************************ */}
+           <div className="new_common">
+        <div>
+          <div>
+            <h2 style={{ margin: "1px" }}>
+              <u>GALLERY</u>
+            </h2>
+          </div>
+          <div>
+            <img
+              id="new_common_img"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-56jppbb2ma6gekbm96p73imdm3-20220811234016.Medi.jpeg"
+              alt=""
+            />
+          </div>
+        </div>
+        <div>
+          <div>
+            <h3 style={{ margin: "1px" }}>
+              <u>MORE GALLERY</u>
+            </h3>
+          </div>
+          <div>
+            <div>
+              <div>
+                <img
+                  id="new_common_img1"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-56jppbb2ma6gekbm96p73imdm3-20220811234016.Medi.jpeg"
+                  alt=""
+                />
+              </div>
+              <div>
+                <h5>Ananya Pandey,Vijay Deverakonda spotted at coffee shop</h5>
+              </div>
+            </div>
+            <div>
+              <div>
+                <img
+                  id="new_common_img1"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-3e60l6v07vk8jd76r50eikc391-20201209155425.Medi.jpeg"
+                  alt=""
+                />
+              </div>
+              <div>
+                <h5>Niharika and Chaitanya wedding ceremony</h5>
+              </div>
+            </div>
+            <div>
+              <div>
+                <img
+                  id="new_common_img1"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-an4v33r20oo3l8ussn00bv8gu2-20200810174058.Medi.jpeg"
+                  alt=""
+                />
+              </div>
+              <div>
+                <h5>Rana Daggubuati and Mikheeka Bajaj traditional marraige</h5>
+              </div>
+            </div>
+            <div>
+              <div>
+                <img
+                  id="new_common_img1"
+                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-es84r4783g3f7ti3uq07f80o40-20200809175935.Medi.jpeg"
+                  alt=""
+                />
+              </div>
+              <div>
+                <h5>Actor Rana Duggubati and entrepreneur Miheeka Bajaj tied the
+                knot on Saturday</h5>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -698,68 +679,6 @@ export default function Lifestyle() {
                 No let-up in Rupee depreciation; touches another lifetime low
               </h5>
             </div>
-          </div>
-        </div>
-      </div>
-      {/****************************************NEW-DIV************************************************* */}
-      <div className="rest_all_same">
-        <div>
-          <div>
-            <h3 style={{ margin: "-0.1px" }}>
-              <u>SCIENCE</u>
-            </h3>
-          </div>
-        </div>
-        {/*////////////////////////-----2ND----/////////////////////////*/}
-        <div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926133722.jpeg"
-                alt=""
-              />
-            </div>
-            <div>
-              <h4>
-                President to inaugurate Intergrated cryogenic engine
-                manufacturing facility of HAL
-              </h4>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvqjg8mel2u3sg9ptd4tgrdi2-20220924123658.jpeg"
-                alt=""
-              />
-            </div>
-            <div>
-              <h4>
-                Fossil algae offer new insights into plant kingdom's roots
-              </h4>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-h0jvlhlpi6lv5jtkststtnr2u4-20220624011647.jpeg"
-                alt=""
-              />
-            </div>
-            <div>
-              <h4>
-                ISRO succesfully tests hybrid motor, eyes new propulsion sysytem
-                for rockets
-              </h4>
-            </div>
-          </div>
-          <div id="loading_div">
-            Ad.
-            <img
-              id="loading"
-              src="https://media1.giphy.com/media/3oEjI6SIIHBdRxXI40/200w.gif?cid=82a1493br6myz2rj2idf8hmn3w7vmqv6itnzdnhy0qs2j6co&rid=200w.gif&ct=g"
-              alt=""
-            />
           </div>
         </div>
       </div>

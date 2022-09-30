@@ -3,23 +3,23 @@ export default function South() {
   return (
     <>
       <div className="heading">
-      <h3>
-        <u>SOUTH</u>
-      </h3>
-    </div>
+        <h3>
+          <u>SOUTH</u>
+        </h3>
+      </div>
       <div className="home_top_main_div">
         <div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928065013.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-coovnp6v3uhohtqn2megd484f4-20220714233418.jpeg"
               alt="1"
             />
             <h3>Where is Santosh? TRS leaders left wondering</h3>
-            <p>Rajya Sabha MP switched off phone after earful from CM</p>
+            <p>Rajya Sabha MP switched off phone after earful from <br /> CM</p>
           </div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928074740.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-rk2iu50kqejb96bo47d7d4jap5-20220929110308.jpeg"
               alt="1"
             />
             <h3>Centre bans Popular Front of Indis for 5 years</h3>
@@ -28,24 +28,13 @@ export default function South() {
               in unlawful activites,says the government notification
             </p>
           </div>
-          <div>
-            <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ae0epo7t1as91i1b1k4582b5b0-20220928005337.jpeg"
-              alt="1"
-            />
-            <h3>CM Jagan offers silk robes to Tirumala deity</h3>
-            <p>
-              Cheif Minister carried the set of scared silk robes on his head to
-              the hill temple through the Maha Dwaram in a celestial procession
-            </p>
-          </div>
         </div>
         {/* ///////////////////////////////////////////////////////////////////////////////////////////// */}
         <div>
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928070746.jpeg"
+                src="https://dc-cdn.s3-ap-southeast-1.amazonaws.com/dc-Cover-q9lv8akqhgk0sfpedjvvoofth1-20160819134800.jpeg"
                 alt="mid"
               />
             </div>
@@ -56,7 +45,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928071109.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-q6ct4bbrrprps6bmslgibi1ik2-20211012150758.jpeg"
                 alt="mid"
               />
             </div>
@@ -67,7 +56,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-7jre32ak83bgc9oeop6u42s0a4-20210811230327.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-9p7sib989iv43l5ik363fav9b7-20210627225225.jpeg"
                 alt="mid"
               />
             </div>
@@ -78,7 +67,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-s702pclqh4p3l96s4vq358jct0-20220518215054.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qtvqos3f6qirnki2eqd1o1sht6-20211005200330.jpeg"
                 alt="mid"
               />
             </div>
@@ -89,7 +78,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vajepisnh0feh6j7fus61fqma4-20190420003817.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-0rperakk9dujacp8r6gu0tsp66-20220928203404.jpeg"
                 alt="mid"
               />
             </div>
@@ -100,7 +89,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cu9jecjqe2r4kgbkpb3j1h8h95-20220927224639.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-q6ct4bbrrprps6bmslgibi1ik2-20211012150758.jpeg"
                 alt="mid"
               />
             </div>
@@ -113,7 +102,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-t7clda4mcvmgs4g1vvdt5e2db3-20200827111404.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-7t63hageodcfidjuqig5ql47r5-20220809005743.jpeg"
                 alt="mid"
               />
             </div>
@@ -127,7 +116,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-gaubsqp125hujnsopp64oer6v5-20220922002039.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-4esk0iv9lh64li35g4j717dui2-20220915124651.jpeg"
                 alt="mid"
               />
             </div>
@@ -148,69 +137,6 @@ export default function South() {
               <h5>
                 Police in tizzy after citizen reveals traffic rule violations by
                 cops
-              </h5>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cu9jecjqe2r4kgbkpb3j1h8h95-20220927224835.jpeg"
-                alt="mid"
-              />
-            </div>
-            <div>
-              <h5>
-                Three of NRI family from Andhra Pradesh die in road accident in
-                US
-              </h5>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-i49qjpv8o6lr0dnj6l307dtt17-20220927224148.jpeg"
-                alt="mid"
-              />
-            </div>
-            <div>
-              <h5>Rain wrecks havoc in Hyderabad for the second day</h5>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-h93lf3ifb366v49av3lo3t8sj3-20220928005403.jpeg"
-                alt="mid"
-              />
-            </div>
-            <div>
-              <h5>‘Visit AP 2023’ campaign to attract tourists to state</h5>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-sakj429bl7upg5d8lst21ac9p1-20180725003550.jpeg"
-                alt="mid"
-              />
-            </div>
-            <div>
-              <h5>
-                Hyderabad traffic cops to crack whip on auto drivers, shop
-                owners
-              </h5>
-            </div>
-          </div>
-          <div>
-            <div>
-              <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-eh5rhdio7ldu6chjhcrou170r0-20190425222610.jpeg"
-                alt="mid"
-              />
-            </div>
-            <div>
-              <h5>
-                Sudden, heavy workouts causing heart ailments among youth: Docs
               </h5>
             </div>
           </div>
@@ -308,40 +234,6 @@ export default function South() {
                 />
               </div>
             </div>
-            <div>
-              <div>
-                <h4>Don't give kids antibiotics,docs warn parents</h4>
-              </div>
-              <div>
-                <img
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-14ipgp97jj28hpvpls0itnmhg3-20190725101934.jpeg"
-                  alt="aaa"
-                />
-              </div>
-            </div>
-            <div>
-              <div>
-                <h4>How to get Thick eyebrows: 10 Simple ways To Do</h4>
-              </div>
-              <div>
-                <img
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-3l9hd2sro89cco1lv6r0kducu3-20220825135126.jpeg"
-                  alt="aaa"
-                />
-              </div>
-            </div>
-            <div>
-              {" "}
-              <div>
-                <h4>12Best Jucies for weight loss</h4>
-              </div>
-              <div>
-                <img
-                  src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-3l9hd2sro89cco1lv6r0kducu3-20220825141053.jpeg"
-                  alt="aaa"
-                />
-              </div>
-            </div>
             <p
               style={{
                 display: "flex",
@@ -359,7 +251,7 @@ export default function South() {
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>TECHNOLOGY</u>
+              <u>TELANGANA</u>
             </h3>
           </div>
         </div>
@@ -368,7 +260,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926120352.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-v9unlhnegin73vle9sva5rehf4-20220402133831.jpeg"
                 alt=""
               />
             </div>
@@ -379,7 +271,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-u1k41kks0sdnt8h85pgen5qq67-20220925121920.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-8mma40p7or4i1vigpl1bpnj070-20161016020804.jpeg"
                 alt=""
               />
             </div>
@@ -393,7 +285,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-d51mondbaernmd7f725ddgo6h7-20210312010311.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cul5n31sp8fc36kfi5no91h862-20220216152326.jpeg"
                 alt=""
               />
             </div>
@@ -423,7 +315,7 @@ export default function South() {
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>WORLD</u>
+              <u>ANDHRA PRADESH</u>
             </h3>
           </div>
         </div>
@@ -432,7 +324,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-rk2iu50kqejb96bo47d7d4jap5-20220929071725.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cs96m66tg977u7eghtppot2up1-20190719023021.jpeg"
                 alt=""
               />
             </div>
@@ -443,7 +335,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928122758.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-upl611g1mqvh5l06uar40hbme0-20170228032147.jpeg"
                 alt=""
               />
             </div>
@@ -454,7 +346,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-fkif9kai9qig22o9ci60rt3u45-20220927104633.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-e265mbq4lpq85ib2f53b08tlf5-20210408202242.jpeg"
                 alt=""
               />
             </div>
@@ -465,7 +357,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-iss492mpkj8bbr8fg1dsq0e9a1-20171024094347.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-i4di01t9mon9gdb6f8n0evlud7-20181209055734.jpeg"
                 alt=""
               />
             </div>
@@ -479,7 +371,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-gf9jdct967ojpubp3l3c5o0kq7-20170505033721.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-0rperakk9dujacp8r6gu0tsp66-20220910205447.jpeg"
                 alt=""
               />
             </div>
@@ -490,7 +382,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-2lrn6f0v8a0dqosvcvg2bc8gn5-20220906014728.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-i5hdd58cchigd2hj0t1tmlvrn1-20220929224105.jpeg"
                 alt=""
               />
             </div>
@@ -501,7 +393,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926113715.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-p0cdnc726c3gd2tgfsuumojki4-20161017072625.jpeg"
                 alt=""
               />
             </div>
@@ -512,7 +404,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-qqjgom048dvl9mp6ft24d2spn6-20220302224649.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-emf38od04bkf2kd38k2qoeh3u0-20220912211630.jpeg"
                 alt=""
               />
             </div>
@@ -530,7 +422,7 @@ export default function South() {
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>SCIENCE</u>
+              <u>TAMIL NADU</u>
             </h3>
           </div>
         </div>
@@ -539,7 +431,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926133722.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-39minvqc3namds4k8addg1j1c5-20200805133300.jpeg"
                 alt=""
               />
             </div>
@@ -553,7 +445,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvqjg8mel2u3sg9ptd4tgrdi2-20220924123658.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-77untum3e01p2uf0c873eego50-20220928233408.jpeg"
                 alt=""
               />
             </div>
@@ -566,7 +458,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-h0jvlhlpi6lv5jtkststtnr2u4-20220624011647.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-gf9jdct967ojpubp3l3c5o0kq7-20170505033721.jpeg"
                 alt=""
               />
             </div>
@@ -592,7 +484,7 @@ export default function South() {
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>BUSINESS</u>
+              <u>KARNATAKA</u>
             </h3>
           </div>
         </div>
@@ -601,7 +493,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-79ut93r18bjspmh2e2a9vtg2n6-20200420105458.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-fl4plorr3n91jak877fsrqf087-20220929164935.jpeg"
                 alt=""
               />
             </div>
@@ -615,7 +507,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-l6g3lm4p31or8dgjp97aq6r1p2-20210103213701.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-2ilifu8gbc5cflrlk1qlaio403-20220929184957.jpeg"
                 alt=""
               />
             </div>
@@ -626,7 +518,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-au7mok02br0m258dgrfuqgmvt0-20200612111912.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-sl2p0vrao60damqsp35h7pvj86-20201006110518.jpeg"
                 alt=""
               />
             </div>
@@ -637,7 +529,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928085634.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-4esk0iv9lh64li35g4j717dui2-20220915124651.jpeg"
                 alt=""
               />
             </div>
@@ -651,7 +543,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-1ansuiu0ptkt8docqc0gvba2a6-20180926182506.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-nk35mh2nt2n0qfu0v84t072d72-20220928114555.jpeg"
                 alt=""
               />
             </div>
@@ -662,7 +554,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926104208.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-4esk0iv9lh64li35g4j717dui2-20220915124651.jpeg"
                 alt=""
               />
             </div>
@@ -676,7 +568,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-9lbm7o8pcr3ge42nvht2tu1902-20220601002942.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926113715.jpeg"
                 alt=""
               />
             </div>
@@ -689,7 +581,7 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926104208.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926105535.jpeg"
                 alt=""
               />
             </div>
@@ -701,12 +593,12 @@ export default function South() {
           </div>
         </div>
       </div>
-      {/****************************************NEW-DIV************************************************* */}
+      {/********************************************************/}
       <div className="rest_all_same">
         <div>
           <div>
             <h3 style={{ margin: "-0.1px" }}>
-              <u>SCIENCE</u>
+              <u>KERALA</u>
             </h3>
           </div>
         </div>
@@ -715,51 +607,52 @@ export default function South() {
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926133722.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-rk2iu50kqejb96bo47d7d4jap5-20220929134624.jpeg"
+                alt=""
+              />
+            </div>
+            <div>
+              <h4>Apple set to manufacture its latest iPhone 14 in India</h4>
+            </div>
+          </div>
+          <div>
+            <div>
+              <img
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-jtau2le3s813tqcbqhb2e693v2-20200308131544.jpeg"
                 alt=""
               />
             </div>
             <div>
               <h4>
-                President to inaugurate Intergrated cryogenic engine
-                manufacturing facility of HAL
+                Goa daily wage worker builds robot to feed his differently-abled
+                daughter
               </h4>
             </div>
           </div>
           <div>
             <div>
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-tfvqjg8mel2u3sg9ptd4tgrdi2-20220924123658.jpeg"
+                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-rk2iu50kqejb96bo47d7d4jap5-20220929072159.jpeg"
                 alt=""
               />
             </div>
             <div>
               <h4>
-                Fossil algae offer new insights into plant kingdom's roots
+                Apple addresses camera shake issue on new iPhone Pro models with
+                iOS 16.0.2 update
               </h4>
             </div>
           </div>
           <div>
-            <div>
+            <div id="loading_div">
+              Ad.
               <img
-                src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-h0jvlhlpi6lv5jtkststtnr2u4-20220624011647.jpeg"
+                style={{ boxShadow: "none" }}
+                id="loading"
+                src="https://media1.giphy.com/media/3oEjI6SIIHBdRxXI40/200w.gif?cid=82a1493br6myz2rj2idf8hmn3w7vmqv6itnzdnhy0qs2j6co&rid=200w.gif&ct=g"
                 alt=""
               />
             </div>
-            <div>
-              <h4>
-                ISRO succesfully tests hybrid motor, eyes new propulsion sysytem
-                for rockets
-              </h4>
-            </div>
-          </div>
-          <div id="loading_div">
-            Ad.
-            <img
-              id="loading"
-              src="https://media1.giphy.com/media/3oEjI6SIIHBdRxXI40/200w.gif?cid=82a1493br6myz2rj2idf8hmn3w7vmqv6itnzdnhy0qs2j6co&rid=200w.gif&ct=g"
-              alt=""
-            />
           </div>
         </div>
       </div>

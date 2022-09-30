@@ -373,6 +373,7 @@ flex-wrap: wrap;
     font-size: 10px;
     height: 100%;
   }
+
   .rest_all_same > div:nth-child(1) {
     text-align: center;
     display: grid;

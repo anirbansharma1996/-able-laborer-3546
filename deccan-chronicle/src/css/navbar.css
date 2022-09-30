@@ -40,14 +40,28 @@ h1:nth-child(1) {
     font-size: 10px;
   }
   .navOne{
-    height:45px ;
+    height:auto ;
+    width: auto;
+    display: flex;
+    justify-content: space-evenly;
   }
+  .navOne>div:nth-child(2){
+    height:45px ;
+    width: auto;
+   
+  }
+  
 }
-@media (max-width: 1224px) {
+@media (max-width: 1000px) {
   h3{
     font-size: 12px;
   }
   .navOne{
     height:45px ;
+    width: auto;
+  }
+  .navOne>div:nth-child(2){
+    height:45px ;
+    width: auto;
   }
 }

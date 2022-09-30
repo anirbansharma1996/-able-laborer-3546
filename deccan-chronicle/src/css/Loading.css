@@ -1,0 +1,54 @@
+
+  .loader {
+    width: 60px;
+    height: 500px;
+    margin:auto
+  }
+  .loader>h5{
+    position: absolute;
+    top:30rem
+  }
+  .loader-wheel {
+    animation: spin 1s infinite linear;
+    border: 6px solid rgba(30, 30, 30, 0.5);
+    border-left: 4px solid #fff;
+    border-radius: 50%;
+    height: 50px;
+    margin-bottom: 10px;
+    width: 50px;
+    margin-top: 15rem;
+  }
+  
+  .loader-text {
+    color: #fff;
+    font-family: arial, sans-serif;
+  }
+  
+  .loader-text:after {
+    content: 'Loading';
+    animation: load 2s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @keyframes load {
+    0% {
+      content: 'Loading';
+    }
+    33% {
+      content: 'Loading.';
+    }
+    67% {
+      content: 'Loading..';
+    }
+    100% {
+      content: 'Loading...';
+    }
+  }

@@ -35,7 +35,7 @@ export default function Routes() {
           to={path}
           end
         > 
-        <b> {title}</b>
+        <b style={{marginLeft:'-8px'}}>{title} <span>|</span></b>
         </NavLink>
       ))}
       <div class="dropdown">

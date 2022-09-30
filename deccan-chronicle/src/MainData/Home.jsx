@@ -15,7 +15,7 @@ export default function Home() {
               alt="1"
             />
             <h3>Where is Santosh? TRS leaders left wondering</h3>
-            <p>Rajya Sabha MP switched off phone after earful from CM</p>
+            <p>Rajya Sabha MP switched off phone after earful from <br /> CM</p>
           </div>
           <div>
             <img
