@@ -11,18 +11,24 @@ export default function Nation() {
         <div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ul3dbpcd39gqak56nvutk8gcc0-20220930101302.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-jtj556pgm86qhql4qunegmgap5-20220227231818.jpeg"
               alt="1"
             />
-            <h3>Where is Santosh? TRS leaders left wondering</h3>
-            <p>Rajya Sabha MP switched off phone after earful from CM</p>
+            <h3>
+              Prashant Kishor to embark on 3,500km "padyatra" in Bihar from
+              Sunday
+            </h3>
+            <p>Prashant Kishor to embark on "padyatra" in Bihar from Sunday</p>
           </div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cbg70t0lgege75qkl44n4o92n3-20220518064910.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-6fflavrpsskj2nhi5q7r5q3vj7-20221001182654.jpeg"
               alt="1"
             />
-            <h3>Centre bans Popular Front of Indis for 5 years</h3>
+            <h3>
+              Bream merchant Kejriwal pedding lies ahead of Gujrat polls: Smriti
+              Irani
+            </h3>
             <p>
               PFI and its associates or affiliates or fronts have been indulging
               in unlawful activites,says the government notification

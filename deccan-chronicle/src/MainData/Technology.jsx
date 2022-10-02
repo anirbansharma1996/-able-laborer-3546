@@ -11,18 +11,18 @@ export default function Technology() {
         <div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926120352.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-liq2jpbp0j2q8jchgqa8tn9e82-20210624162756.jpeg"
               alt="1"
             />
-            <h3>Where is Santosh? TRS leaders left wondering</h3>
-            <p>Rajya Sabha MP switched off phone after earful from CM</p>
+            <h3>WhatsApp bans over 23.28lakh India accounts in August</h3>
+            <p>WhatsApp bans over 23.28lakh India accounts in August</p>
           </div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-u1k41kks0sdnt8h85pgen5qq67-20220925121920.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-cdg69uinab6ahnm4rt1qmbr6s1-20220926120352.jpeg"
               alt="1"
             />
-            <h3>Centre bans Popular Front of Indis for 5 years</h3>
+            <h3>Apple set to manufacture its latest iPhone 14 in India</h3>
             <p>
               PFI and its associates or affiliates or fronts have been indulging
               in unlawful activites,says the government notification

@@ -17,15 +17,20 @@ export default function Routes() {
   let active = {
     textDecoration: "none",
     color: "red",
-    
   };
   let notActive = {
     textDecoration: "none",
-    color:"black"
+    color: "black",
   };
 
   return (
-    <div style={{ display: "flex",flexWrap:"wrap", justifyContent: "space-evenly" }}>
+    <div
+      style={{
+        display: "flex",
+        flexWrap: "wrap",
+        justifyContent: "space-evenly",
+      }}
+    >
       {links.map(({ path, title }) => (
         <NavLink
           style={({ isActive }) => {
@@ -34,12 +39,16 @@ export default function Routes() {
           key={path}
           to={path}
           end
-        > 
-        <b style={{marginLeft:'-8px'}}>{title} <span>|</span></b>
+        >
+          <b style={{ marginLeft: "-24%" }}>
+            <span></span> {title} <span style={{marginLeft:"4%"}}>|</span>
+          </b>
         </NavLink>
       ))}
       <div class="dropdown">
-       <b><span>More...↓</span></b> 
+        <b>
+          <span>More...↓</span>
+        </b>
         <div class="dropdown-content">
           <p>Business</p>
           <p>Opinion</p>

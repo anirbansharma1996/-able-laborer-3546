@@ -14,15 +14,15 @@ export default function World() {
               src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-fl4plorr3n91jak877fsrqf087-20220929174146.jpeg"
               alt="1"
             />
-            <h3>Where is Santosh? TRS leaders left wondering</h3>
-            <p>Rajya Sabha MP switched off phone after earful from CM</p>
+            <h3>US allies not 'intimidated' by Vladimir Putin : Joe Biden</h3>
+            <p>America's fully prepared, with our NATO allies, to defend every single inch of NATO territory, the US president said</p>
           </div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-rk2iu50kqejb96bo47d7d4jap5-20220929133310.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-fr344ukuibqb676dcl2punlir2-20221001102227.jpeg"
               alt="1"
             />
-            <h3>Centre bans Popular Front of Indis for 5 years</h3>
+            <h3>India abstains from UN vote that condemns Russia's annexation of Ukrainian regions</h3>
             <p>
               PFI and its associates or affiliates or fronts have been indulging
               in unlawful activites,says the government notification

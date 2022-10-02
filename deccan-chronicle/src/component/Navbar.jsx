@@ -42,19 +42,19 @@ export default function Navbar() {
           />
         </div>
         <div ref={buttonref}>
-          <h6>Tuesday, Sep 27, 2022 | Last Update : 06:01 PM IST</h6>
+          <h6>Monday, Oct 03, 2022 | Last Update : 03:01 PM IST</h6>
         </div>
       </div>
       <div className="navThree">
         <Routes />
       </div>
-      <button className="btn"
+      {/* <button className="btn"
         onClick={() => {
           buttonref.current.scrollIntoView({ behavior: "smooth" });
         }}
       >
         TOP ▲ 
-      </button>
+      </button> */}
 
     </>
   );

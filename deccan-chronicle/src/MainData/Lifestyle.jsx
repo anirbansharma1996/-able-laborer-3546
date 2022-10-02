@@ -14,8 +14,8 @@ export default function Lifestyle() {
               src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-f3818761d52q6q7e4sjfalg6g7-20211012074746.jpeg"
               alt="1"
             />
-            <h3>Where is Santosh? TRS leaders left wondering</h3>
-            <p>Rajya Sabha MP switched off phone after earful from CM</p>
+            <h3>Durga pooja is celebration time for Bengalis</h3>
+            <p>durga pooja is celebration time for Bengalis,today is Asthami</p>
           </div>
           <div>
             <img
@@ -24,8 +24,7 @@ export default function Lifestyle() {
             />
             <h3>Centre bans Popular Front of Indis for 5 years</h3>
             <p>
-              PFI and its associates or affiliates or fronts have been indulging
-              in unlawful activites,says the government notification
+              Increased football was withness at popular traditional dance locales
             </p>
           </div>
         </div>

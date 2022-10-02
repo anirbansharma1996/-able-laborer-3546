@@ -14,15 +14,15 @@ export default function South() {
               src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-coovnp6v3uhohtqn2megd484f4-20220714233418.jpeg"
               alt="1"
             />
-            <h3>Where is Santosh? TRS leaders left wondering</h3>
-            <p>Rajya Sabha MP switched off phone after earful from <br /> CM</p>
+            <h3>Telangana Congress gears up for 'Bharat Jodo' yatra</h3>
+            <p>Rahul Gandhi likely to touch TS on Oct.24</p>
           </div>
           <div>
             <img
               src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-rk2iu50kqejb96bo47d7d4jap5-20220929110308.jpeg"
               alt="1"
             />
-            <h3>Centre bans Popular Front of Indis for 5 years</h3>
+            <h3>KCR appeals to youth to raise and shape India's future</h3>
             <p>
               PFI and its associates or affiliates or fronts have been indulging
               in unlawful activites,says the government notification

@@ -14,15 +14,15 @@ export default function Sports() {
               src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-fsaifujltj2ug11qfdc6nmhks0-20211101202946.jpeg"
               alt="1"
             />
-            <h3>Where is Santosh? TRS leaders left wondering</h3>
-            <p>Rajya Sabha MP switched off phone after earful from CM</p>
+            <h3>Jashprit Bumrah injury</h3>
+            <p>india 'hopeful' injured Bumrah could still make World Cup : coach</p>
           </div>
           <div>
             <img
-              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-5foek4rvenglkmk4p4v3bnoi40-20200418171559.jpeg"
+              src="https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-6fflavrpsskj2nhi5q7r5q3vj7-20221001171142.jpeg"
               alt="1"
             />
-            <h3>Centre bans Popular Front of Indis for 5 years</h3>
+            <h3>Jemimah's career-best powers India to 41-run win over SL in women's Asia Cup</h3>
             <p>
               PFI and its associates or affiliates or fronts have been indulging
               in unlawful activites,says the government notification
